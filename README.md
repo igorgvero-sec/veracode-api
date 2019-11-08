@@ -1,10 +1,12 @@
 # Current version demonstrates Workspace Creation
 
-Do not forget to setup credentials file:
+Do not forget to setup credentials file and install authentication library
 
-Location: ~/.veracode/credentials 
+https://help.veracode.com/reader/LMv_dtSHyb7iIxAQznC~9w/wYuaO2z0umMlM7O_lSyKIg
 
-Contents:
+Credentials File Location: ~/.veracode/credentials 
+
+Credentials File Contents:
 
 [default] <br />
 veracode_api_key_id = ID_VALUE_HERE <br />
