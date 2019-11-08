@@ -6,6 +6,6 @@ Location: ~/.veracode/credentials
 
 Contents:
 
-[default]
-veracode_api_key_id = ID_VALUE_HERE 
-veracode_api_key_secret = KEY_VALUE_HERE 
+[default] <br />
+veracode_api_key_id = ID_VALUE_HERE <br />
+veracode_api_key_secret = KEY_VALUE_HERE <br />
