@@ -1,0 +1,14 @@
+{
+  "description": "API Created Workspace",
+  "memberships": {
+    "groups": [
+      {
+        "group_id": 1,
+        "role": "WORKSPACE_ADMIN"
+      }
+    ],
+    "users": [
+    ]
+  },
+  "name": "API-Workspace"
+}
