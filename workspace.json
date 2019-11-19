@@ -1,14 +1,3 @@
 {
-  "description": "API Created Workspace",
-  "memberships": {
-    "groups": [
-      {
-        "group_id": 0,
-        "role": "WORKSPACE_ADMIN"
-      }
-    ],
-    "users": [
-    ]
-  },
-  "name": "API-Workspace"
+  "name": "APIWorkspace-IG"
 }
