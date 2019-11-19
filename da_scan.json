@@ -1,0 +1,22 @@
+{
+    "schedule": {
+        "duration": {
+            "unit": "DAY",
+            "length": 1
+        },
+        "scheduled": true,
+        "now": true,
+        "schedule_status": "ACTIVE"
+    },
+    "scans": [
+        {
+            "linked_platform_app_uuid": "3a02e9fc-f2db-4a8f-bf3c-ecded3d76919",
+            "scan_config_request": {
+                "target_url": {
+                    "url": "http://www.example.com/"
+                }
+            }
+        }
+    ],
+    "name": "IG Nov 19th"
+}
