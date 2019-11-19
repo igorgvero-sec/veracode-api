@@ -18,7 +18,8 @@ if __name__ == "__main__":
 
     if response.ok:
         data = response.json()
+        print (data)
         for ws in data["_embedded"]["workspaces"]:
-            print (ws["name"])
+            print (ws["name"] + " --- " + ws["id"])
     else:
         print(response.status_code)
