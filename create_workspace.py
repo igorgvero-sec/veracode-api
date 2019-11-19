@@ -5,7 +5,7 @@ from veracode_api_signing.plugin_requests import RequestsAuthPluginVeracodeHMAC
 
 
 api_base = "https://api.veracode.com/srcclr/v3"
-headers = {"User-Agent": "Create Workspace Example"}
+headers = {"User-Agent": "Create Workspace Example", 'Content-type': 'application/json'}
 
 
 if __name__ == "__main__":
@@ -24,3 +24,4 @@ if __name__ == "__main__":
 
     else:
         print(response.status_code)
+        print(response.content)
