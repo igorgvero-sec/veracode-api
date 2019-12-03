@@ -1,0 +1,12 @@
+{
+  "schedule": {
+    "now": true,
+    "start_date": "2019-12-02T16:53:34-04:00",
+    "duration": {
+      "length": 1,
+      "unit": "DAY"
+    },
+    "end_date": "",
+    "schedule_status": "ACTIVE"
+  }
+}
