@@ -1,4 +1,5 @@
-# Current version demonstrates Workspace Creation
+# Set of different API scripts and JSON files to be used with Veracode platform (including SCA and DA)
+## Provided AS IS - customize as needed
 
 Do not forget to setup credentials file and install authentication library
 
