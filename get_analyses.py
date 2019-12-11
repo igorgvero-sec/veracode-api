@@ -4,7 +4,7 @@ from veracode_api_signing.plugin_requests import RequestsAuthPluginVeracodeHMAC
 
 
 api_base = "https://api.veracode.com/was/configservice/v1"
-headers = {"User-Agent": "Restart DA Scan Example"}
+headers = {"User-Agent": "Get Analyses Example"}
 
 
 if __name__ == "__main__":
